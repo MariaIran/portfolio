@@ -64,7 +64,7 @@ function App() {
           <h2>Contact Me</h2>  
           <p>Email: mariairanbilan@gmail.com</p>  
           <p>Facebook: <a href="https://www.facebook.com/mariairanbilan?mibextid=ZbWKwL">Maria Iran Bilan</a></p> 
-          <p>Instagram: <a href="https://www.facebook.com/mariairanbilan?mibextid=ZbWKwL">mriairnbln</a></p>  
+          <p>Instagram: <a href="https://www.instagram.com/mariairanbilan/">mariairanbilan</a></p>  
           <p>Contact Number: 09660561016</p>
         </section>  
       </main>  
