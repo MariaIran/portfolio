@@ -27,9 +27,19 @@ function App() {
         </section>  
 
         <section id="about" className="skills">  
-          <h2>Skills</h2>  
-          <p>I have a reasonable proficiency in Figma, HTML, and CSS, which enables me to create visually appealing and responsive user interfaces, along with a basic understanding of JavaScript and React for developing interactive web applications. My foundational knowledge of Java helps me grasp object-oriented programming concepts. To enhance my skills, I plan to deepen my React knowledge, build practical projects, learn version control with Git for better collaboration, explore full-stack development to understand backend technologies, and engage with online communities for continuous learning and feedback. My goal is to become a proficient web developer capable of delivering quality user experiences through effective design and development.
-          </p>  
+          <h2>Skills</h2>
+          <div className="skillscard1"> 
+              <h3>HTML</h3>    
+            </div>  
+            <div className="skillscard2"> 
+              <h3>CSS</h3>    
+            </div>  
+            <div className="skillscard3"> 
+              <h3>JAVASCRIPT</h3>    
+            </div>  
+            <div className="skillscard4"> 
+              <h3>FIGMA</h3>    
+            </div>  
         </section> 
 
         <section id="projects" className="projectbg">  
